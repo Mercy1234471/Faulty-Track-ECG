@@ -1,0 +1,6 @@
+{
+  "name": "ECG Faulty track report",
+  "description": "ECG Faulty track report - Fault tracking, technician dispatch, meter request management, and offline dashboard with web portal export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
